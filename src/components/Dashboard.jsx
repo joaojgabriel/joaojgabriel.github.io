@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { Header } from "./Header.js";
-import { Card } from "./Card.js";
+import { Header } from "./Header";
+import { Card } from "./Card";
 import { nanoid } from "nanoid";
 import DATA from "../../data.json";
 
