@@ -11,7 +11,7 @@ function Header({
     <header className="mx-auto grid h-full w-full grid-rows-6 md:col-span-2 lg:col-span-1 lg:row-span-2">
       <div className="z-10 col-span-full row-start-1 row-end-5 flex items-center rounded-2xl bg-blue py-8 px-6 lg:flex-col lg:items-start">
         <img
-          src="src/assets/image-jeremy.png"
+          src="./src/assets/image-jeremy.png"
           alt=""
           width="234"
           height="234"
