@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-work {
+  background: #ff8c66 url("src/assets/icon-work.svg") no-repeat right 1rem top -0.5rem /
+    5rem;
+}
+.background-play {
+  background: #56c2e6 no-repeat url("src/assets/icon-play.svg") right 1rem top -0.5rem /
+    5rem;
+}
+.background-study {
+  background: #ff5c7c no-repeat url("src/assets/icon-study.svg") right 1rem top -0.5rem /
+    5rem;
+}
+.background-exercise {
+  background: #4acf81 no-repeat url("src/assets/icon-exercise.svg") right 1rem
+    top -0.5rem / 5rem;
+}
+.background-social {
+  background: #7536d3 no-repeat url("src/assets/icon-social.svg") right 1rem top -0.5rem /
+    5rem;
+}
+.background-self-care {
+  background: #f1c65b no-repeat url("src/assets/icon-self-care.svg") right 1rem
+    top -0.5rem / 5rem;
+}
